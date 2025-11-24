@@ -158,7 +158,7 @@ final_score = (0.6 * score_sbert) + (0.4 * score_tfidf)
 ## ⚡ FastAPI Backend
 
 ### 🔹 Start server locally:
-```bash
+bash
 uvicorn main:app --reload
 
 🔹 API Endpoint
@@ -193,7 +193,8 @@ APK is included inside flutter_app/apk-release/
 
 Screenshots section placeholder
 
-(Add your screenshots here)
+![1](https://github.com/user-attachments/assets/c7d02678-9967-45bd-b9f9-16128ba2f137)
+
 
 ☁ Deployment
 Backend Deployment: Render
