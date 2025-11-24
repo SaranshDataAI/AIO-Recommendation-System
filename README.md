@@ -217,7 +217,12 @@ Run:
 flutter build apk --release
 
 
-Upload APK on GitHub Releases or share directly
+## 📲 Download Mobile App (APK)
+
+Click the button below to download and install the Android app:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/19ikJ-Hd2SHSoRqMuAc83AtpGQ7V7XmUK/view?usp=drive_link)
+
 
 🛠 How to Run Everything Locally
 Backend:
