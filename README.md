@@ -193,7 +193,10 @@ APK is included inside flutter_app/apk-release/
 
 Screenshots section placeholder
 
-![1](https://github.com/user-attachments/assets/c7d02678-9967-45bd-b9f9-16128ba2f137)
+![1](https://github.com/user-attachments/assets/c7d02678-9967-45bd-b9f9-16128ba2f137) 
+![2](https://github.com/user-attachments/assets/9fe032f0-3156-4e19-b050-8e7ed5c7387e)
+![3](https://github.com/user-attachments/assets/b6c414a7-3442-44e1-b4b1-8badedb1b137)
+![4](https://github.com/user-attachments/assets/049dbc26-f3df-461e-8e29-c6a900edcd67)
 
 
 ☁ Deployment
