@@ -222,7 +222,7 @@ flutter build apk --release
 Click the button below to download and install the Android app:
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/14OmqwcCT33V3JEF3yUAK_DVMpCysuQI0/view?usp=drive_link)
-  ## OR See On Web
+  ## OR See On Web (first time it took about 2 Min thanks for patience)
 ### 🚀 Live Demo  
 [![Netlify Status](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://unique-heliotrope-d00057.netlify.app)
 
