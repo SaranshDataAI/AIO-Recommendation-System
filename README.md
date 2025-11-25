@@ -221,7 +221,7 @@ flutter build apk --release
 
 Click the button below to download and install the Android app:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/19ikJ-Hd2SHSoRqMuAc83AtpGQ7V7XmUK/view?usp=drive_link)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/14OmqwcCT33V3JEF3yUAK_DVMpCysuQI0/view?usp=drive_link)
 
 
 🛠 How to Run Everything Locally
